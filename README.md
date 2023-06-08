@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on [GitHub](https://github.com/Adithiya5Hub)
 <p align="center">
  <a href="https://twitter.com/Adithiya1S">
-    <img src="[[https://www.datafeedwatch.com/hubfs/alexander-shatov-k1xf2D7jWUs-unsplash%20%281%29.jpg](https://api.freelogodesign.org/assets/blog/thumb/152880db593345cdb307307a5df1c663_1176x840.jpg?t=637836579260000000)](https://elements-video-cover-images-0.imgix.net/files/2e77624f-153e-4c4d-bbaa-89685bfa8a7b/inline_image_preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=8febe7d4004f3a2849deb2964e06c042)" height = 200px alt="Adithiya's Twitter"/>
+    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height = 200px alt="Adithiya's Twitter"/>
   </a>
    <br>
   <a href="https://www.linkedin.com/in/s-adithiya-9a252023a/">
