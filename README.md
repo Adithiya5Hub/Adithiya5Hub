@@ -8,7 +8,6 @@
  <a href="https://twitter.com/Adithiya1S">
     <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height = 200px alt="Adithiya's Twitter"/>
   </a>
-   <br>
   <a href="https://www.linkedin.com/in/s-adithiya-9a252023a/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 200px alt="Adithiya's LinkedIn"/>
   </a>
