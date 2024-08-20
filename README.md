@@ -6,10 +6,10 @@
 - 💞️ I’m looking to collaborate on [GitHub](https://github.com/Adithiya5Hub)
 <p align="center">
  <a href="https://twitter.com/Adithiya1S">
-    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height = 200px alt="Adithiya's Twitter"/>
+    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height = 110px alt="Adithiya's Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/s-adithiya-9a252023a/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 200px alt="Adithiya's LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 100px alt="Adithiya's LinkedIn"/>
   </a>
   </p>
  
