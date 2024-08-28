@@ -1,10 +1,10 @@
 
    ![Banner](https://github.com/user-attachments/assets/bc4c2b93-516f-4877-8193-5e8283c82aa3)
 
-- 👋 Hey Everyone!!
+
 ###
 
-<h4 align="left">Adithiya here, I'm a final year student passionate about MERN stack Web Development. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
+<h4 align="left"> 👋 Hey Everyone, Adithiya here, I'm a final year student passionate about MERN stack Web Development. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
 
 ---
 <h3 align="left">💻 Tech that I use daily : </h3>
