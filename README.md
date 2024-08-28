@@ -1,17 +1,30 @@
-<a href="(https://twitter.com/Adithiya1S)" target="_blank"><img src="https://user-images.githubusercontent.com/93365795/210151173-3ed83443-bc04-4d5d-a104-d924aa80de41.jpg" width = 400px /></a>
-   
-- 👋 Hi, I’m @Adithiya5Hub
-- 👀 I’m interested in Tech
-- 🌱 I’m currently exploring about Web Development
-- 💞️ I’m looking to collaborate on [GitHub](https://github.com/Adithiya5Hub)
-<p align="center">
- <a href="https://twitter.com/Adithiya1S">
-    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height = 110px alt="Adithiya's Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/s-adithiya-9a252023a/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 100px alt="Adithiya's LinkedIn"/>
-  </a>
-  </p>
+
+   ![Banner](https://github.com/user-attachments/assets/bc4c2b93-516f-4877-8193-5e8283c82aa3)
+
+- 👋 Hey Everyone!!
+###
+
+<h4 align="left">Adithiya here, I'm a final year student passionate about MERN stack Web Development. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
+
+---
+<h3 align="left">💻 Tech that I use daily : </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+<img width="9" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="9" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+<!--   <img width="9" />
+  
+</div>
+
+---
+
  
 
 <!---
