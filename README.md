@@ -24,6 +24,18 @@
 </div>
 
 ---
+###
+<h3 align="left">🌐 Let's Connect : </h3>
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" height="40" alt="twitter logo"  />
+  <img width="9" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" height="40" alt="linkedin logo"  />
+  <img width="9" />
+  
+  
+</div>
+
+---
 
  
 
