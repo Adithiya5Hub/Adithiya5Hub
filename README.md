@@ -6,7 +6,22 @@
 
 <h4 align="left"> 👋 Hey Everyone, Adithiya here, I'm a final year student passionate about MERN stack Web Development. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
 
+
 ---
+
+<h3 align="left">🌐 Let's Connect : </h3>
+<div align="center">
+ <a href="https://x.com/Adithiya1S"> <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" height="40" alt="twitter logo"  /></a>
+  <img width="9" />
+ <a href="https://www.linkedin.com/in/s-adithiya-9a252023a/"><img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" height="40" alt="linkedin logo" /></a>
+<img width="9" />
+  
+  
+</div>
+
+---
+
+
 <h3 align="left">💻 Tech that I use daily : </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
@@ -17,25 +32,16 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="9" />
-  <img width="9" />
+ 
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 <!--   <img width="9" />
-  
+
 </div>
 
----
-###
-<h3 align="left">🌐 Let's Connect : </h3>
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" height="40" alt="twitter logo"  />
-  <img width="9" />
-  <img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" height="40" alt="linkedin logo"  />
-  <img width="9" />
-  
-  
-</div>
 
----
+
+
+
 
  
 
